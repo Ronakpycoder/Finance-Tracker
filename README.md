@@ -3,6 +3,7 @@ Personal Finance Tracker
 A command-line Personal Finance Tracker to record income and expenses, view transaction summaries, and visualize financial trends. This tool uses Python, Pandas, and Matplotlib with persistent CSV storage for quick and efficient money management.
 
 Features
+
 Add Transactions easily: record date, amount, category (Income/Expense), and description.
 
 Summarize Finances: See totals for income, expenses, and net savings within any chosen date range.
