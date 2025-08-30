@@ -34,21 +34,4 @@ View transaction history and summary for any date range.
 
 Optional: plot graphs of income and expense trends.
 
-File Overview
-File	Purpose
-main.py	Main interface and logic for viewing and plotting
-data_entry.py	Input validation and user prompts
-finance_data.csv	Stores all transaction data (created automatically)
-Example CSV Entries
-date	amount	category	description
-01-07-2024	1000	Income	Salary
-02-07-2024	50	Expense	Groceries
-How to Extend
-Add new categories or enhance input fields in data_entry.py.
 
-Expand data analysis or visualization in main.py.
-
-License
-Released under the MIT License.
-
-Start managing your money smarter with this simple, robust tracker!
